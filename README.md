@@ -102,7 +102,7 @@ python3 04_build_db_and_run_sql.py     # -> data/clean/support_analytics.db, doc
 ## Dashboard
 
 Import `dashboard/looker_studio_export.csv` into
-[Looker Studio](https://lookerstudio.google.com) for a self-service view
+[Looker Studio](https://datastudio.google.com/reporting/ace1a48e-59c5-436a-9f71-d9ce109f3065) for a self-service view
 filterable by vehicle type, booking status, category, severity, and
 workflow.
 
